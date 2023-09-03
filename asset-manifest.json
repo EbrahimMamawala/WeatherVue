@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WeatherVue/static/css/main.b10fd206.css",
+    "main.js": "/WeatherVue/static/js/main.37d49836.js",
+    "index.html": "/WeatherVue/index.html",
+    "main.b10fd206.css.map": "/WeatherVue/static/css/main.b10fd206.css.map",
+    "main.37d49836.js.map": "/WeatherVue/static/js/main.37d49836.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b10fd206.css",
+    "static/js/main.37d49836.js"
+  ]
+}
